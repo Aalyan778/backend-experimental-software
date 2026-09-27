@@ -1,0 +1,6 @@
+{
+  "name": "FormPulse - Free Form Backend Platform",
+  "description": "100% free hosted form backend for developers. Connect HTML, React, Next.js, or Vue forms directly to our endpoint without writing backend code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
